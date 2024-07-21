@@ -18,7 +18,7 @@ Welcome to the Building Tools organisation! We develop a suite of tools designed
 ### BetterModels
 **BetterModels** is a plugin that enables the placement and management of furniture added via a resource pack. This allows for more detailed and realistic interior designs in your Minecraft worlds.
 
-> **All our systems are in active development**
+> **All our systems are in active development. Bugs are inevitable**
 ---
 
 Thank you for your interest in our Building Tools organisation! We look forward to seeing the amazing creations you build with our tools.
